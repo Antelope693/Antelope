@@ -1,0 +1,10 @@
+F:\C#\homeWork1.2\bin\Debug\homeWork1.2.exe.config
+F:\C#\homeWork1.2\bin\Debug\homeWork1.2.exe
+F:\C#\homeWork1.2\bin\Debug\homeWork1.2.pdb
+F:\C#\homeWork1.2\obj\Debug\homeWork1.2.csproj.AssemblyReference.cache
+F:\C#\homeWork1.2\obj\Debug\homeWork1._2.Properties.Resources.resources
+F:\C#\homeWork1.2\obj\Debug\homeWork1.2.csproj.GenerateResource.cache
+F:\C#\homeWork1.2\obj\Debug\homeWork1.2.csproj.CoreCompileInputs.cache
+F:\C#\homeWork1.2\obj\Debug\homeWork1.2.exe
+F:\C#\homeWork1.2\obj\Debug\homeWork1.2.pdb
+F:\C#\homeWork1.2\obj\Debug\homeWork1._2.Form1.resources

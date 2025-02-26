@@ -1,0 +1,14 @@
+F:\C#\homeWork1\bin\Debug\net8.0\homeWork1.exe
+F:\C#\homeWork1\bin\Debug\net8.0\homeWork1.deps.json
+F:\C#\homeWork1\bin\Debug\net8.0\homeWork1.runtimeconfig.json
+F:\C#\homeWork1\bin\Debug\net8.0\homeWork1.dll
+F:\C#\homeWork1\bin\Debug\net8.0\homeWork1.pdb
+F:\C#\homeWork1\obj\Debug\net8.0\homeWork1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\homeWork1\obj\Debug\net8.0\homeWork1.AssemblyInfoInputs.cache
+F:\C#\homeWork1\obj\Debug\net8.0\homeWork1.AssemblyInfo.cs
+F:\C#\homeWork1\obj\Debug\net8.0\homeWork1.csproj.CoreCompileInputs.cache
+F:\C#\homeWork1\obj\Debug\net8.0\homeWork1.dll
+F:\C#\homeWork1\obj\Debug\net8.0\refint\homeWork1.dll
+F:\C#\homeWork1\obj\Debug\net8.0\homeWork1.pdb
+F:\C#\homeWork1\obj\Debug\net8.0\homeWork1.genruntimeconfig.cache
+F:\C#\homeWork1\obj\Debug\net8.0\ref\homeWork1.dll
